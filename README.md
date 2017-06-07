@@ -30,4 +30,5 @@ Git, HTML, CSS, Bootstrap, JavaScript, jQuery
 
 ## License Information ##
 Copyright (c) Max Scher 2017 
+
 This webpage is published under the MIT license
